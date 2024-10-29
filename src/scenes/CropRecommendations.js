@@ -18,7 +18,7 @@ const CropRecommendations = () => {
     humidity: ''
   });
 
-  const [recommendedCrop, setRecommendedCrop] = useState('');
+  const [recommendedCrop, setRecommendedCrop] = useState('Sugarcane');
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const [cropImage, setCropImage] = useState(placeholderImage);

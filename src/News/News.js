@@ -3,7 +3,7 @@ import axios from 'axios';
 import PulseLoader from 'react-spinners/PulseLoader';
 import './News.css';
 import SCENE from '../Assets/scene1.png';
-import COW from '../Assets/COW.png';
+import COW from '../Assets/MandiNews.svg';
 import { FaInstagram, FaTwitter, FaLinkedin } from 'react-icons/fa';
 
 const News = () => {
